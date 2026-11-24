@@ -177,6 +177,29 @@ Last updated: 2026-11-24
 - Floating zone labels, an orange outline on the selected floor, an auto-rotating intro and a fly-in.
 - Day mode turns most of these off.
 
+**Matched to the render video (version 3, same link):**
+- **Tower moved.** It now sits at the back (north), centred on the podium, with the white canopy in front of it at floor 5.
+  - Why: in the video the parking lot of white cars is on the right. That parking strip is on the east side of the ground plan, so the video camera must be looking from the south.
+  - **ASSUMED:** this position comes from the render, not from any plan.
+- **Facade:**
+  - Glass set back behind deep white slab edges, like balconies.
+  - Glass railings on floors 1–4 and 6–12.
+  - Bronze vertical panels on the podium.
+  - Planters on the tower balconies.
+- **Crown:**
+  - Asymmetric orange parapet: lower on the west, taller on the east, with "VANTAJE" on the south face.
+  - Glass penthouse with a white roof plate. The light beam was removed.
+- **Floor 5** is now shown as recessed dim glazing, as in the render.
+  - It is still not saleable per the user; no plan was supplied.
+- **Sky and city:** blue dusk sky, paler and lower city blocks, more trees.
+- **Site:**
+  - Pools with fountain jets and LED rims, plus stepped lawn terraces at the east entry plaza.
+  - A row of parked white cars on the plan's parking strip.
+- **Camera** now opens from the south-east, high up, like the video.
+- **Not matched:**
+  - The render's large front plaza with pools on the south side is not in the ground plan, so the pools stay at the plan's east "water body" spots.
+  - The podium keeps the plan's footprint (about 133 × 71 m).
+
 **Offered but not done:**
 - Flythrough video.
 - `.glb` export (Blender, SketchUp, AR).
