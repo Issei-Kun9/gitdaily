@@ -233,6 +233,26 @@ Same floor data and modes; rendering, facade, surroundings, camera and UI rebuil
 - **UI:** dark interface with an Instrument Serif and Inter type pairing, a level index with floor heights, a floor info panel, and a bottom-sheet layout on phones.
 - **Tested** at 1440 × 900 and 390 × 844 in a headless browser with a software GPU. Not tested on a real phone GPU.
 
+**Version 5 (same link):**
+- **Neighbouring buildings** rebuilt as one design system:
+  - Shop base with a white fascia.
+  - Main body in one of three facade types (office glass, residential windows with real balconies, or stone pilasters), with a finer grid of 3 m bays and 3.3 m storeys.
+  - Upper floors sometimes set back, plus rooftop edges and plant rooms.
+  - Lit windows switch on in runs, with gradients, instead of single bright squares.
+  - Paved plots around each building.
+  - A low, fogged skyline further out for depth.
+- **East entry arrival**, all **ILLUSTRATIVE**, not from any drawing:
+  - Drop-off lane.
+  - Champagne entrance canopy with a lit underside and an orange edge.
+  - VANTAJE signage totem.
+  - A line of 24 lit bollards.
+- **Other changes:**
+  - Paved roof deck.
+  - Smooth tree canopies in a deeper green.
+  - Brighter, cleaner Day preset.
+- **Guided "Tour" button:** cycles Hero → Facade → Street → Aerial with a slow orbit. Dragging, changing mode or picking a floor stops it.
+- **Tested** in the same headless software-GPU browser at 1440 × 900 and 390 × 844.
+
 **Offered but not done:**
 - Flythrough video.
 - `.glb` export (Blender, SketchUp, AR).
