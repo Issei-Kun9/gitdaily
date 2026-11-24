@@ -165,6 +165,18 @@ Last updated: 2026-11-24
 - **Exterior:** simplified. The podium's stepped balconies are shown as plain glass floors.
 - **Auto-traced walls:** may have small errors or gaps.
 
+**Visual upgrade (version 2, same link):**
+- Dusk sky with stars and a glow effect.
+- Lit city blocks around the site. These are decorative, not real neighbouring buildings.
+- Trees placed on the tree lines drawn on the ground plan.
+- Glowing pools at the plan's "water body and cascade" spots.
+- Street lamps on the service road, and moving car lights on the main road.
+- LED lines under each slab.
+- "VANTAJE" sign on the orange crown and a rooftop light beam.
+- Roof-deck planters.
+- Floating zone labels, an orange outline on the selected floor, an auto-rotating intro and a fly-in.
+- Day mode turns most of these off.
+
 **Offered but not done:**
 - Flythrough video.
 - `.glb` export (Blender, SketchUp, AR).
